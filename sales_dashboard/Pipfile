@@ -7,6 +7,9 @@ name = "pypi"
 streamlit = "*"
 jupyter = "*"
 notebook = "*"
+matplotlib = "*"
+seaborn = "*"
+japanize-matplotlib = "*"
 
 [dev-packages]
 
